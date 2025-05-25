@@ -54,7 +54,7 @@ If you want to try this project on your local machine, follow these steps:
 
 ## Brief Project Explanation
 
-This project was created as part of the SiteFest competition with a mission to help users access trusted and easy-to-understand medical information in one place.
+This project was created as part of the Konkiti competition with a mission to help users access trusted and easy-to-understand medical information in one place.
 By using modern technologies like React Js and Tailwind CSS, this project offers a fast and responsive user experience.
 Deployment with Vercel allows easy online access without complicated setup.
 
