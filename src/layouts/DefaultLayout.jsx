@@ -1,6 +1,5 @@
 import Footer from '../component/Footer.jsx';
 import Navbar from '../component/navbar.jsx';
-import PropTypes from 'prop-types';
 
 export const DefaultLayout = ({ children }) => {
     return (
@@ -10,8 +9,4 @@ export const DefaultLayout = ({ children }) => {
             <Footer />
         </div>
     );
-};
-
-DefaultLayout.propTypes = {
-    children: PropTypes.node.isRequired,
 };
