@@ -1,6 +1,6 @@
 import { SearchBar } from '../../component/SearchBar.jsx';
 import { ShortBy } from '../../component/ShortBy.jsx';
-import clinic from '../../assets/clinic.jpg';
+import clinic from '../../assets/clinic.webp';
 import { ListClinics } from '../../component/Clinic/ListClinics.jsx';
 import { clinics } from './clinicData.js';
 import FindFacility from '../../component/Clinic/FindFacility.jsx';
@@ -8,7 +8,7 @@ import { FIndType } from '../../component/Clinic/FIndType.jsx';
 import { useEffect, useState } from 'react';
 import { useClinic } from '../../contexts/ClinicContext.jsx';
 import { Filter } from '../../component/Drugs/FilterDrug.jsx';
-import xIcon from '../../assets/x-icon.svg';
+import xIcon from '../../assets/x-icon.webp';
 
 export function Clinics() {
     const typesValue = FIndType(clinics);

@@ -1,5 +1,5 @@
 import { useRef, useState, useEffect } from 'react';
-import Heal from '../assets/Logo.svg';
+import Heal from '../assets/Logo.webp';
 import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {

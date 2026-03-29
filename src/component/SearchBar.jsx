@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import searchIcon from '../assets/search.svg';
+import searchIcon from '../assets/search.webp';
 
 export const SearchBar = ({ onSearch, placeholder, clearTrigger, onclick, value }) => {
     const [query, setQuery] = useState();

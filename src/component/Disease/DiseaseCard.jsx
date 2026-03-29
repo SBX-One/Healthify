@@ -9,7 +9,7 @@ export const DiseaseCard = ({ id, name, gejala, deskripsi, loading }) => {
                     Gejala : <span className="font-semibold">{gejala.map(item => item.split(':')[0].trim()).join(', ')} </span>
                 </h3>
 
-                <p className="text-sm lg:text-base 2xl:text-lg lg:text-sm">{deskripsi}....</p>
+                <p className="text-sm lg:text-base 2xl:text-lg ">{deskripsi}....</p>
             </div>
             {loading ? (
                 <>

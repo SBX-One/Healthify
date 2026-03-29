@@ -1,8 +1,3 @@
-// Level obat ilustration
-// https://res.cloudinary.com/dektxbmmb/image/upload/v1742993337/Healthify/Drugs/nxa2nhht3muioxowusjr.svg hijau+logo
-// https://res.cloudinary.com/dektxbmmb/image/upload/v1741525775/Healthify/Drugs/onbii428z6vtgwxen0nw.png merah+k
-// https://res.cloudinary.com/dektxbmmb/image/upload/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg biru
-// https://res.cloudinary.com/dektxbmmb/image/upload/v1742997397/Healthify/Drugs/c5q5p5mwfvgz1u3zand4.svg hijau
 export const drugData = [
     {
         id: 1,
@@ -11,8 +6,8 @@ export const drugData = [
         standFor: 'Obat Flu & Alergi',
         Tags: ['Flu'],
         Level: ['Over-the-counter'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1741612892/Healthify/Drugs/ghyzrzs0ws8njz7aqetz.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1741525775/Healthify/Drugs/onbii428z6vtgwxen0nw.png',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1741612892/Healthify/Drugs/ghyzrzs0ws8njz7aqetz.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1741525775/Healthify/Drugs/onbii428z6vtgwxen0nw.png',
         description:
             'Actifed adalah obat yang digunakan untuk meredakan gejala flu dan alergi, seperti hidung tersumbat, bersin-bersin, dan batuk. Obat ini mengandung kombinasi zat aktif yang bekerja efektif dalam meredakan gejala tersebut.',
         composition: ['Triprolidine HCI 2,5 mg', 'Pseudoephedrine HCI 60 mg'],
@@ -33,8 +28,8 @@ export const drugData = [
         standFor: 'Meringankan Masuk Angin',
         Tags: ['Flu'],
         Level: ['Herbal '],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992509/Healthify/Drugs/dqezqvyyagashnezmikd.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742993337/Healthify/Drugs/nxa2nhht3muioxowusjr.svg ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992509/Healthify/Drugs/dqezqvyyagashnezmikd.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742993337/Healthify/Drugs/nxa2nhht3muioxowusjr.svg ',
         description:
             'Antangin adalah obat herbal yang digunakan untuk meredakan gejala masuk angin, seperti perut kembung, mual, dan nyeri. Obat ini mengandung bahan alami yang membantu meningkatkan daya tahan tubuh dan meredakan ketidaknyamanan.',
         composition: ['Jahe 100 mg', 'Kencur 50 mg', 'Madu 10 mg', 'Bahan herbal lainnya'],
@@ -56,8 +51,8 @@ export const drugData = [
         standFor: 'Meringankan Masuk Angin',
         Tags: ['Flu'],
         Level: ['Herbal '],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992461/Healthify/Drugs/is894hmybavyfmbfk248.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1741525775/Healthify/Drugs/onbii428z6vtgwxen0nw.png ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992461/Healthify/Drugs/is894hmybavyfmbfk248.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1741525775/Healthify/Drugs/onbii428z6vtgwxen0nw.png ',
         description:
             'Tolak Angin adalah obat herbal yang digunakan untuk meredakan gejala masuk angin, seperti perut kembung, mual, dan nyeri. Obat ini mengandung bahan alami yang membantu meningkatkan daya tahan tubuh dan meredakan ketidaknyamanan.',
         composition: ['Jahe 100 mg', 'Kencur 50 mg', 'Madu 10 mg', 'Bahan herbal lainnya'],
@@ -79,8 +74,8 @@ export const drugData = [
         standFor: 'Meredakan Flu & Sakit Kepala',
         Tags: ['Flu', 'Fever'],
         Level: ['Over-the-counter'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992485/Healthify/Drugs/nwip4pryelaijtz2qgw9.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992485/Healthify/Drugs/nwip4pryelaijtz2qgw9.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
         description:
             'Mixagrip adalah obat yang digunakan untuk meredakan gejala flu dan pilek, seperti demam, sakit kepala, hidung tersumbat, dan nyeri tenggorokan. Obat ini mengandung kombinasi bahan aktif yang bekerja efektif dalam meredakan gejala tersebut.',
         composition: ['Paracetamol 500 mg', 'Pseudoephedrine HCl 30 mg', 'Chlorpheniramine maleate 2 mg'],
@@ -102,8 +97,8 @@ export const drugData = [
         standFor: 'Meredakan Flu & Demam',
         Tags: ['Flu'],
         Level: ['Over-the-counter'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992448/Healthify/Drugs/wr5fh9lvfujcmugp2dem.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992448/Healthify/Drugs/wr5fh9lvfujcmugp2dem.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
         description:
             'Decolgen adalah obat yang digunakan untuk meredakan gejala flu dan pilek, seperti demam, sakit kepala, hidung tersumbat, dan nyeri tenggorokan. Obat ini mengandung kombinasi bahan aktif yang bekerja efektif dalam meredakan gejala tersebut.',
         composition: ['Paracetamol 500 mg', 'Pseudoephedrine HCl 30 mg', 'Chlorpheniramine maleate 2 mg'],
@@ -125,8 +120,8 @@ export const drugData = [
         standFor: 'Obat Batuk',
         Tags: ['Flu', 'Caugh'],
         Level: ['Over-the-counter', 'Herbal '],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992437/Healthify/Drugs/igaafcnkaszfzcf4gjfo.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992437/Healthify/Drugs/igaafcnkaszfzcf4gjfo.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
         description:
             'Konidin adalah obat yang digunakan untuk meredakan gejala flu dan alergi, seperti hidung tersumbat, bersin-bersin, dan batuk. Obat ini mengandung kombinasi bahan aktif yang bekerja efektif dalam meredakan gejala tersebut.',
         composition: ['Pseudoephedrine HCl 30 mg', 'Diphenhydramine HCl 25 mg'],
@@ -148,8 +143,8 @@ export const drugData = [
         standFor: 'Obat Batuk Berdahak',
         Tags: ['Caugh'],
         Level: ['Over-the-counter'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992465/Healthify/Drugs/nelp3nxb1pjonytdb0ol.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992465/Healthify/Drugs/nelp3nxb1pjonytdb0ol.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
         description:
             'OBH Combi adalah obat yang digunakan untuk meredakan batuk dan gejala flu, seperti hidung tersumbat dan nyeri tenggorokan. Obat ini mengandung kombinasi bahan aktif yang bekerja efektif dalam meredakan gejala tersebut.',
         composition: ['Paracetamol 500 mg', 'Dextromethorphan HBr 10 mg', 'Pseudoephedrine HCl 30 mg'],
@@ -171,8 +166,8 @@ export const drugData = [
         standFor: 'Meredakan Batuk',
         Tags: ['Caugh'],
         Level: ['Over-the-counter'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992464/Healthify/Drugs/qyodtkivknjuw0xwgbjh.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992464/Healthify/Drugs/qyodtkivknjuw0xwgbjh.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
         description:
             'Komix adalah obat yang digunakan untuk meredakan gejala batuk dan flu, seperti hidung tersumbat, bersin-bersin, dan nyeri tenggorokan. Obat ini mengandung kombinasi bahan aktif yang bekerja efektif dalam meredakan gejala tersebut.',
         composition: ['Paracetamol 500 mg', 'Dextromethorphan HBr 10 mg', 'Pseudoephedrine HCl 30 mg'],
@@ -194,8 +189,8 @@ export const drugData = [
         standFor: 'Obat Batuk Kering & Berdahak',
         Tags: ['Caugh'],
         Level: ['Over-the-counter'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992445/Healthify/Drugs/qlhybshbl31aipiymtq4.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992445/Healthify/Drugs/qlhybshbl31aipiymtq4.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
         description:
             'Siladex adalah obat yang digunakan untuk meredakan gejala flu dan alergi, seperti hidung tersumbat, bersin-bersin, dan batuk. Obat ini mengandung kombinasi bahan aktif yang bekerja efektif dalam meredakan gejala tersebut.',
         composition: ['Paracetamol 500 mg', 'Dextromethorphan HBr 10 mg', 'Pseudoephedrine HCl 30 mg'],
@@ -217,8 +212,8 @@ export const drugData = [
         standFor: 'Sakit Kepala & Demam',
         Tags: ['Fever'],
         Level: ['Over-the-counter'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992449/Healthify/Drugs/mf4kyqio3o1l2jrfzkvs.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992449/Healthify/Drugs/mf4kyqio3o1l2jrfzkvs.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
         description:
             'Bodrex adalah obat yang digunakan untuk meredakan nyeri ringan hingga sedang dan menurunkan demam. Obat ini sering digunakan untuk mengatasi sakit kepala, sakit gigi, dan nyeri otot.',
         composition: ['Paracetamol 500 mg', 'Kafein 50 mg'],
@@ -240,8 +235,8 @@ export const drugData = [
         Level: ['Over-the-counter'],
         standFor: 'Pereda Nyeri',
         Tags: ['Pain', 'Antibiotics'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992447/Healthify/Drugs/krhf6ujns7ukydiymy4t.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992447/Healthify/Drugs/krhf6ujns7ukydiymy4t.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
         description:
             'Panadol adalah obat yang digunakan untuk meredakan nyeri ringan hingga sedang dan menurunkan demam. Obat ini mengandung paracetamol sebagai bahan aktif yang efektif dalam mengurangi rasa sakit dan demam.',
         composition: ['Paracetamol 500 mg'],
@@ -265,8 +260,8 @@ export const drugData = [
         standFor: 'Antibiotik untuk bakteri',
         Tags: ['Antibiotics'],
         Level: ['Hard Drugs'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992451/Healthify/Drugs/piw84xym1wdapezjuvdt.svg',
-        drugLevel: ' https://res.cloudinary.com/dektxbmmb/image/upload/v1741525775/Healthify/Drugs/onbii428z6vtgwxen0nw.png',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992451/Healthify/Drugs/piw84xym1wdapezjuvdt.svg',
+        drugLevel: ' https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1741525775/Healthify/Drugs/onbii428z6vtgwxen0nw.png',
         description:
             'Amoxicillin adalah antibiotik yang digunakan untuk mengobati berbagai infeksi bakteri, termasuk infeksi saluran pernapasan, infeksi telinga, dan infeksi saluran kemih. Obat ini bekerja dengan menghambat pertumbuhan bakteri.',
         composition: ['Amoxicillin 500 mg'],
@@ -288,8 +283,8 @@ export const drugData = [
         standFor: 'Antibiotik untuk saluran kemih',
         Tags: ['Antibiotics'],
         Level: ['Hard Drugs'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992434/Healthify/Drugs/fcalvkhdxynwyvbzhdof.svg',
-        drugLevel: ' https://res.cloudinary.com/dektxbmmb/image/upload/v1741525775/Healthify/Drugs/onbii428z6vtgwxen0nw.png',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992434/Healthify/Drugs/fcalvkhdxynwyvbzhdof.svg',
+        drugLevel: ' https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1741525775/Healthify/Drugs/onbii428z6vtgwxen0nw.png',
         description:
             'Cotrimoxazole adalah antibiotik yang digunakan untuk mengobati berbagai infeksi bakteri, termasuk infeksi saluran pernapasan, infeksi saluran kemih, dan infeksi gastrointestinal. Obat ini merupakan kombinasi dari sulfamethoxazole dan trimethoprim yang bekerja sinergis untuk menghambat pertumbuhan bakteri.',
         composition: ['Sulfamethoxazole 400 mg', 'Trimethoprim 80 mg'],
@@ -311,8 +306,8 @@ export const drugData = [
         standFor: 'Flu, Demam & Hidung Tersumbat',
         Tags: ['Caugh', 'Flu', 'Fever'],
         Level: ['Over-the-counter'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992450/Healthify/Drugs/wwuiyzryl6ohugpcizra.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992450/Healthify/Drugs/wwuiyzryl6ohugpcizra.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
         description:
             'Neozep Forte adalah obat yang digunakan untuk meredakan gejala flu, seperti demam, sakit kepala, hidung tersumbat, dan bersin-bersin. Obat ini mengandung kombinasi zat aktif yang bekerja efektif dalam meredakan berbagai gejala flu.',
         composition: ['Paracetamol 500 mg', 'Pseudoephedrin HCl 30 mg', 'Diphenhydramine HCl 25 mg'],
@@ -335,8 +330,8 @@ export const drugData = [
         standFor: 'Sakit Kepala & Flu',
         Tags: ['Flu', 'Pain'],
         Level: ['Over-the-counter'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992456/Healthify/Drugs/dsnx8ble82ltjvdbarqi.svg',
-        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992456/Healthify/Drugs/dsnx8ble82ltjvdbarqi.svg',
+        drugLevel: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742993336/Healthify/Drugs/qydnkyqsqwiiuukodcor.svg ',
         description:
             'Paramex adalah obat yang digunakan untuk meredakan gejala nyeri dan demam, seperti sakit kepala, sakit gigi, dan nyeri otot. Obat ini mengandung bahan aktif yang bekerja efektif dalam mengurangi rasa sakit dan menurunkan suhu tubuh.',
         composition: ['Paracetamol 500 mg'],
@@ -358,8 +353,8 @@ export const drugData = [
         standFor: 'Pereda Nyeri & Demam',
         Tags: ['Pain', 'Fever'],
         Level: ['Over-the-counter'],
-        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1742992434/Healthify/Drugs/hmmaf0yefcy68xavfaim.svg',
-        drugLevel: ' https://res.cloudinary.com/dektxbmmb/image/upload/v1742997397/Healthify/Drugs/c5q5p5mwfvgz1u3zand4.svg  ',
+        ilustration: 'https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742992434/Healthify/Drugs/hmmaf0yefcy68xavfaim.svg',
+        drugLevel: ' https://res.cloudinary.com/dektxbmmb/image/upload/f_auto,q_auto/v1742997397/Healthify/Drugs/c5q5p5mwfvgz1u3zand4.svg  ',
         description:
             'Paracetamol adalah obat yang digunakan untuk meredakan nyeri ringan hingga sedang dan menurunkan demam. Obat ini sering digunakan untuk mengatasi sakit kepala, sakit gigi, nyeri otot, dan demam akibat infeksi.',
         composition: ['Paracetamol 500 mg'],

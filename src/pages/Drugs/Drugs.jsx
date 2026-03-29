@@ -1,6 +1,4 @@
 import { SearchBar } from '../../component/SearchBar';
-import drugsImage from '../../assets/drugs.png';
-import xIcon from '../../assets/x-icon.svg';
 import { DrugCard } from '../../component/Drugs/Drug';
 import { drugData } from './drugsdta';
 import { useState, useEffect } from 'react';

@@ -1,4 +1,4 @@
-import xIcon from '../../assets/x-icon.svg';
+import xIcon from '../../assets/x-icon.webp';
 import { TagButton } from './Tagbtn';
 
 export function FilterPanel({ tagsActive, toggleTag, tags, topics, diseases, authors, onClose }) {

@@ -33,7 +33,9 @@
         background-color: white;
         border: solid;
         border-width: 1px;
-        transition: background-color 0.3s ease, color 0.3s ease;
+        transition:
+            background-color 0.3s ease,
+            color 0.3s ease;
     }
 
     .Button:hover {
@@ -101,5 +103,24 @@
         border-width: 1px;
         border-radius: 24px;
         max-height: fit-content;
+    }
+
+    .circle-btn {
+        width: 70px;
+        height: 70px;
+        min-width: 70px;
+        min-height: 70px;
+        max-width: 70px;
+        max-height: 70px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        flex-grow: 0;
+        transition:
+            transform 0.3s ease,
+            background-color 0.3s ease,
+            border 0.3s ease;
     }
 }

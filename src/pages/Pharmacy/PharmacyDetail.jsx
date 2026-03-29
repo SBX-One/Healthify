@@ -5,7 +5,7 @@ import { drugData } from '../Drugs/drugsdta.js';
 import { DrugCard } from '../../component/Drugs/Drug.jsx';
 import { MoreLink } from '../../component/MoreLink.jsx';
 import { useEffect, useState } from 'react';
-import searchIcon from '../../assets/search.svg';
+import searchIcon from '../../assets/search.webp';
 import { PharmacyClinicCard } from '../../component/PharmacyClinicCard.jsx';
 
 export function PharmacyDetail() {

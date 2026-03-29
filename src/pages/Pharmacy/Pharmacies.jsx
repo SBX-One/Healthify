@@ -1,12 +1,11 @@
 import { SearchBar } from '../../component/SearchBar.jsx';
-import { ShortBy } from '../../component/ShortBy.jsx';
-import pharmacyHero from '../../assets/pharmacy.png';
+import pharmacyHero from '../../assets/pharmacy.webp';
 import { ListPharmacies } from '../../component/Pharmacy/ListPharmacies.jsx';
 import { Banner } from '../../component/Banner.jsx';
 import { usePharmacy } from './../../contexts/PharmacyContext.jsx';
 import { Filter } from '../../component/Drugs/FilterDrug.jsx';
 import { useEffect, useState } from 'react';
-import xIcon from '../../assets/x-icon.svg';
+import xIcon from '../../assets/x-icon.webp';
 
 export function Pharmacies() {
     const { setType, type, search, setSearch } = usePharmacy();

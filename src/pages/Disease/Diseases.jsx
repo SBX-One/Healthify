@@ -1,6 +1,6 @@
 import { SearchBar } from '../../component/SearchBar.jsx';
 import { Banner } from '../../component/Banner.jsx';
-import diseaseHero from '../../assets/disease.jpg';
+import diseaseHero from '../../assets/disease.webp';
 import { ListWords } from '../../component/Disease/ListWords.jsx';
 import { DiseaseList } from '../../component/Disease/DiseaseList.jsx';
 import { useDisease } from '../../contexts/DiseaseContext.jsx';

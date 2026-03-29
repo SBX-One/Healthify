@@ -1,4 +1,4 @@
-import xIcon from '../../assets/x-icon.svg';
+import xIcon from '../../assets/x-icon.webp';
 
 export function FilterPanel({ active, toggleActive, tags, level, tagsActive, toggleTag }) {
     if (!active) return null;

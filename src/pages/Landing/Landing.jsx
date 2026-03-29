@@ -11,8 +11,8 @@ import './Landing.css';
 // Component
 import FAQ from '../../component/FAQ.jsx';
 // image assets
-import IDemo2 from '../../assets/idemo2.svg';
-import IDemo3 from '../../assets/idemo3.svg';
+import IDemo2 from '../../assets/idemo2.webp';
+import IDemo3 from '../../assets/idemo3.webp';
 
 const Landing = () => {
     const { ref: refImage, inView: inViewImage } = useInView({
@@ -46,7 +46,7 @@ const Landing = () => {
                 ></motion.div>
             </div>
             {/* explore clinic and pharmacy  */}
-            <div className=' sm:grid sm:grid-cols-2 xl:flex xl:flex-col gap-4  xl:gap-0'>
+            <div className=" sm:grid sm:grid-cols-2 xl:flex xl:flex-col gap-4  xl:gap-0">
                 <ExpClinic />
                 <ExpPharmacy />
             </div>

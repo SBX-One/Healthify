@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { useNavigate } from 'react-router-dom';
-import IDemo from '../../assets/Demo.svg';
+import IDemo from '../../assets/Demo.webp';
 
 const fadeUpVariants = {
     hidden: { opacity: 0, y: 40 },
@@ -24,7 +24,6 @@ export const Hero = () => {
         <motion.div ref={ref} initial="hidden" animate={inView ? 'visible' : 'hidden'} className="max-w-screen flex md:gap-4 ">
             <motion.div variants={fadeUpVariants} className="Container1 2xl:gap-4">
                 <div className="item-1 ">
-                    
                     {/** Heading */}
                     <motion.p variants={fadeUpVariants} custom={0} className="font-semibold lg:text-5xl text-3xl md:text-4xl ">
                         Where Health Meets Knowledge for a Brighter Future
@@ -71,7 +70,9 @@ export const Hero = () => {
                     <motion.img src={IDemo} alt="particle image" width={250} variants={fadeUpVariants} custom={7} whileHover={{ scale: 1.02 }} className="rounded-[40px] max-[1550px]:hidden   " />
                     <motion.div variants={fadeUpVariants} custom={8} className="item-2 justify-center max-[1550px]:hidden space-y-2   ">
                         <p className="font-semibold lg:text-4xl text-2xl">Our mission</p>
-                        <p className="lg:text-lg text-base">Our mission is to empower individuals with accessible health information that promotes informed decision-making and enhances overall well-being.</p>
+                        <p className="lg:text-lg text-base">
+                            Our mission is to empower individuals with accessible health information that promotes informed decision-making and enhances overall well-being.
+                        </p>
                     </motion.div>
                 </div>
             </motion.div>

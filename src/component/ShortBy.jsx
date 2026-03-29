@@ -1,5 +1,5 @@
-import sortIcon from '../assets/filter.svg';
-import downIcon from '../assets/down.svg';
+import sortIcon from '../assets/filter.webp';
+import downIcon from '../assets/down.webp';
 
 export const ShortBy = ({ onclick, items }) => {
     return (

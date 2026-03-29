@@ -1,4 +1,4 @@
-import heal from '../assets/logo-white.svg';
+import heal from '../assets/logo-white.webp';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 
@@ -10,7 +10,7 @@ const Footer = () => {
     return (
         <footer className="bg-[#213170] text-white p-10 lg:p-16 2xl:p-20 rounded-xl lg:rounded-[40px]">
             <div className="container mx-auto flex justify-between max-[1280px]:justify-start  gap-20">
-                <div className=" hidden xl:flex flex-col gap-12 flex-1">
+                <div className=" hidden lg:flex flex-col gap-12 flex-1">
                     <div>
                         <img src={heal} alt=" healthify logo " />
                         <p className="max-w-[506px] ">We provide accessible health information to empower informed decisions and enhance well-being.</p>
@@ -31,7 +31,7 @@ const Footer = () => {
 
                 <div className="flex-1">
                     <div className="">
-                        <div className="hidden xl:flex justify-between items-center mb-6">
+                        <div className="hidden lg:flex justify-between items-center mb-6">
                             <input
                                 className="lg:text-2xl 2xl:text-3xl font-semibold bg-transparent placeholder-white focus:outline-none focus:ring-0 focus:border-none"
                                 type="email"

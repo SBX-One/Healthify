@@ -1,4 +1,4 @@
-import drugsImage from '../../assets/drugs.png';
+import drugsImage from '../../assets/drugs.webp';
 
 export function DrugsHero() {
     return (
