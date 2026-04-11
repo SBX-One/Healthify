@@ -2,7 +2,7 @@ export const dieases = [
     {
         id: 1,
         name: 'asthma bronchiale',
-        img: 'https://media-hosting.imagekit.io//89f833e3f75646a0/Asthma%20Bronchiale.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=s6qoOHqEym7eW0lgIyaIowSXz8Seu5xPB3C2dJ2ZP~cmVPMCh1eazykQiuhlgn6x1j75qVGE-osgLCTQhlnWq~kLK1xJ~ik3zLNJKR2BlneFKUs1sF0ieqMvXktA4~VIxuyCYiddt~mHhfPZF37i~JYxo4XvlBUCmE-IoW6yb2mEEfDdWhWljc~Qxb3Z0REsaI312APwsYvIwTO0w55W4~-sdtMoMwJG0WCAIy4mcxeuRRJAJzRzvK7cR00kLkhkSYUyyu2AlQVosEbMBjoR~DYKnIjweQQLx4XWFzu4NSOh6i9r4vXwelp0Hd9PpF2WWr-xf~QbAN~H2hTbjQdXcQ__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885681/Asthma_Bronchiale_ta6emq.png',
         definisi:
             'Asthma bronkial adalah penyakit pernapasan kronis yang ditandai dengan peradangan dan penyempitan saluran napas, yang menyebabkan kesulitan bernapas, batuk, dan mengi. Kondisi ini dapat bervariasi dalam tingkat keparahan dan frekuensi serangan, memerlukan pengelolaan yang tepat untuk menjaga kualitas hidup penderita. Asma sering kali dipicu oleh berbagai faktor lingkungan dan genetik.',
         gejala: [
@@ -72,7 +72,7 @@ export const dieases = [
     {
         id: 2,
         name: 'bronchitis acuta',
-        img: 'https://media-hosting.imagekit.io//56216e0b006d40e0/Bronchitis%20Acuta.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=FHW~MmzbxosoP0Xcnelvy0B3RupqFHColXcokV1vMh61GDYMEnJPp3FZdf6lPVnVi0lHOVCisMyzYYDO563hz0Er2C4cIOqVng7vI8AdsEykQ3TqHxpU8D72suT5rHitBRyq~OciOTJN3mXdYpf-XsHOucsBHoP77HC3Np-YjNoRdyzO7xICx~nb2GSm3ymtB09BDQ9XAB~gDY-7FimHlfkHwInL4poaSWc0RRHQkWHL6w0Rpdr90mFdJl9hEa2bzojv7MPwIrYE7T31IBPu55Vq~x5-OJtMFAgyIQeef3YJbkbOmLdaAj4g6w4Qx-ZsTZ1CjGOrlx62SizZnveqcg__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885681/Bronchitis_Acuta_tg2trd.png',
         definisi:
             'Bronchitis acuta adalah peradangan pada saluran bronkus, biasanya disebabkan oleh infeksi virus. Kondisi ini menyebabkan batuk dan produksi lendir, dan umumnya bersifat sementara. Dengan perawatan yang tepat, bronchitis acuta biasanya sembuh dalam beberapa minggu.',
         gejala: [
@@ -142,7 +142,7 @@ export const dieases = [
     {
         id: 3,
         name: 'cholera',
-        img: 'https://media-hosting.imagekit.io//2d476dd498de4bc2/Cholera.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=rFzOkZRix6ptiUtvRx0doyXgtfr6X7SEukR5oPPlX3pylMCRMaLBORcVYVmP15ZUk1RgauWZ6kmh054xO4PdjqUdXCun1YUatRwa-rS26ovPI7c-dgWCZnY7HjKduts5ZQ7-F5xdXTJfNCsToNvWFy9geonO4u9zYS7W-n9UX5HelsUAxwG9iKiITmDeVv27gSGia~1jxXi6qmlkfabQ7x7sq1X1mfqvPA2GSMMWsMxfp62dpWrfOiCXV1djcvf8XKrVNxfHeURX-RwJdGNEunQf32d8aTu1tfvITsoaHczVUgglhiA10bBysYFL84fpRc-5Ei23DXASJKWLmZpiPg__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885682/Cholera_yly8wt.png',
         definisi:
             'Cholera adalah infeksi usus akut yang disebabkan oleh bakteri Vibrio cholerae, yang ditularkan melalui air atau makanan yang terkontaminasi. Penyakit ini dapat menyebabkan diare parah dan dehidrasi, yang jika tidak diobati dapat berakibat fatal.\n',
         gejala: [
@@ -208,7 +208,7 @@ export const dieases = [
     {
         id: 4,
         name: 'diphtheria',
-        img: 'https://media-hosting.imagekit.io//15f558997f714297/Diphtheria.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=TQ50dP34mvJ2qwW72Z-X5SMFG3o8Ay8Ur0rfId9Xp9T7nJGKkvGV1FNEUTmxYZufXEuL5Wi0pVebmkzUh22bHxp4XzqoUOhEFeQJNdMCz76uhNpjjvgeTghnojh2v5ePEfDNvC-6RbIuS79QoGVij5oL8Nau84s2OxLzSBcvhcRPTDcPehYaSoW4Rn~zrk3qAjEAMo1~zkGJEqd5tAwG-6Fu0p5IVustUjcBNX~s2wdUrar3er53T~PMMtPGhci7rTH7BKoZfU2vjojDDT2d5gKGFkWsIT8vp9xmdWhRxcLyYamNx1f3baQPZ1pbZKkquBVObeTmTKF1Vq-Ezcw9~w__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885682/Diphtheria_dhewea.png',
         definisi:
             'Diphtheria adalah infeksi bakteri yang disebabkan oleh Corynebacterium diphtheriae, yang dapat mempengaruhi saluran pernapasan dan menyebabkan pembentukan selaput di tenggorokan. Penyakit ini dapat berakibat fatal jika tidak diobati, terutama pada anak-anak.\n',
         gejala: [
@@ -270,7 +270,7 @@ export const dieases = [
     {
         id: 5,
         name: 'epilepsia',
-        img: 'https://media-hosting.imagekit.io//7cdd1a24b1e24b93/Epilepsia.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=GuLzOpJpcBi7ibd5hkx3NkX1~JxCef-xBc1ELatD76eCPFu~vrT-iUK~FDLe-yqnj3hPkNgrwZkY7i3EvH96F5JiZg0a36EVWc0kjPk3nRYXRxui4dPss3e3mloB5vCIPSe11twotZpXs23sOfosnuZN-lEZ16DyOxqSk1SWEgdWAjMIS6YSfhdgrjtuL1oXg34wLOLPakro65GR~nfSsnFHAvBrQAIvyFLfXdVmuJIAijvHHtGmpjceK9XNs4DOrt34QMiag6DeQVRxqTXDOcRDG3YJTIC3yfxYjQG6mr90C8gtRJ8CyZRYm7cSZlfi8~lNalFPxbrxKEbRX-wnFg__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885682/Epilepsia_i0kb1q.png',
         definisi:
             'Epilepsia adalah gangguan neurologis kronis yang ditandai oleh serangan kejang berulang akibat aktivitas listrik abnormal di otak. Kondisi ini dapat mempengaruhi berbagai fungsi tubuh dan mental, tergantung pada jenis kejang yang dialami.\n',
         gejala: [
@@ -334,7 +334,7 @@ export const dieases = [
     {
         id: 6,
         name: 'fibromialgia',
-        img: 'https://media-hosting.imagekit.io//88c98f3645e84214/fibromialgia.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zobioHcKpG5Ng7iXcOugXTzMAPIzJh0ZXp96qtMOoBdg946sJ65lIHpl3feK8NR7TZsGF7amhoEX~FvQaofbbnBW4-2lYFPLFsu7msEa0dKLjMQsvgEtPkTYedd~yZukDvM5Q7h4tSoqyKVQaA9Ckd3fLRnCDm5~0PtWH0TtOYuJSC9qqM~WTpssTr0anUk1UA4xyK4z-TcQUPPIiZXjcemZN0DXCpJ6hf6O8~OMleonmRX7kL8BKvIaaQ5~yFTMSsyZSlj-9oSynt4V9PJZ0z3lU3vt~45G7MMsleN22-ICdqwrMd1W7cwtlSr2ce6TlYsg1CB6tKnOb1gACBQ8ug__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885682/fibromialgia_zgqwqz.png',
         definisi:
             'Fibromialgia adalah gangguan kronis yang ditandai oleh nyeri muskuloskeletal yang meluas, disertai kelelahan, gangguan tidur, dan masalah memori. Kondisi ini sering kali mempengaruhi kualitas hidup dan aktivitas sehari-hari.',
         gejala: [
@@ -392,7 +392,7 @@ export const dieases = [
     {
         id: 7,
         name: 'Arthritis Urica (Gout)',
-        img: 'https://media-hosting.imagekit.io//5f258d100e2f410c/Arthritis%20Urica%20(Gout).png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MD8kqngDU1vslUf6azWt1eqAr5LOZfXF9sbS8fWqOqmWq0I8G9Z8B-2BYa6Xc6jMgclSpu1iWu0ICXnlgokjm1twIJgnOigffRS67WgE8Wyr~nzHPtEUdYih8ZJ5oX0lL2DvsZVUpOkeNB7CYBeMF-i7NTN-Ia67DPbmZcX8nue6Zspck5C1ZamOZR6WyzinBZ76hgGvqBGE6I2n6Zbgx83u9W5b0JxL~w8oy3kKqT-zX0W3Cs7qZpR4PZZeQckyLetHzz~CGfUUHlNWA09aGAmKIWKB9avc4MNq58HIU9mrUM8MHqd74y1eLsTMGYpnWH4gxSKhlHw8VFcSo5Hfug__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885681/Arthritis_Urica_Gout_glwruo.png',
         definisi:
             'Arthritis urica, atau gout, adalah jenis arthritis yang disebabkan oleh penumpukan kristal asam urat di sendi, yang mengakibatkan peradangan dan nyeri hebat. Kondisi ini sering kali terjadi secara tiba-tiba dan dapat mempengaruhi kualitas hidup.',
         gejala: [
@@ -456,7 +456,7 @@ export const dieases = [
     {
         id: 8,
         name: 'Hypertensio Arterialis',
-        img: 'https://media-hosting.imagekit.io//ce711615fe94447c/Hypertensio%20Arterialis.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=15xCWzPj1bFD6TEDKQ7tW5M6v0fWMNAe7UZs6015DaROynjAJ0m~A8vts75AehgYjWvNmm3fWQcvDE4AnD4iY7UXW5wn38IhwtnDT~6kMN-SBV8IUT1CQ4xlSxYvjPWTa~KVGdEOVeg1laUS6rtBQX8Bi3K2Qzy7BDm0ZYS4hFjV~zOlSCCphbtPP8gv4ckQo-OhkHP-k20BR-6QZPOPhKF-RXe8~14SBcXuQWVjwf6kYFZzTCQMNhhDOA6JOvn-jAT6ZCjptwo81I5n-wAcAhGPeqtPPNfamb7U~Jd1flNrgDjnh7tNevMTnCRv2Su~S-~~RF6~aOnpIg6tkxeA2A__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885682/Hypertensio_Arterialis_lriviy.png',
         definisi:
             'Hypertensio arterialis, atau hipertensi, adalah kondisi medis di mana tekanan darah dalam arteri meningkat secara kronis. Jika tidak dikelola, hipertensi dapat menyebabkan komplikasi serius, termasuk penyakit jantung dan stroke.',
         gejala: [
@@ -510,7 +510,7 @@ export const dieases = [
     {
         id: 9,
         name: 'Influenza',
-        img: 'https://media-hosting.imagekit.io//5726fd42575e43d7/Influenza.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=asqK1KlilLsWuJ3eRP8gE~revCxHNOn8aT~Th0Fe70TPmlWrqQ5cyVT3PQY3k9u5AVco021653yqqMWAdNbh1-52dMOa911JDgDKUHC8x9A8EIrhnyx1DqfM7r5DV6se~GtoiiphhOabedCtmnuUY5QZmXvy8mYoDY192UibQ2Oa4r9OF4ZDED0RB~b6ybNeQIrkJsTMbJBMAlRMAA~4tSWzS08U1u9eRc1zvoUwF3IuFicGeqSUxh0IhM90FWOdGg5Y1-hmNmB0DiuUUVSh2SOItuhlvQvCxuIkGyy99ucX3xqV53dPd1uSX-97oMUmnqAEoNYv9BpFhGQjTc7THQ__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885683/Influenza_uicl0s.png',
         definisi:
             'Influenza, atau flu, adalah infeksi virus yang menyerang saluran pernapasan, termasuk hidung, tenggorokan, dan paru-paru. Penyakit ini sangat menular dan dapat menyebabkan gejala yang bervariasi dari ringan hingga berat.',
         gejala: [
@@ -568,7 +568,7 @@ export const dieases = [
     {
         id: 10,
         name: 'Japanese Encephalitis',
-        img: 'https://media-hosting.imagekit.io//d8a8001fb950481a/Japanese%20Encephalitis.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=A8OSi7iSDJsKYJ18qNVIhTZ15-cRFzPuIpLY-A27lk--lIdIIhBH-AHh2lVnPKEIgp4sCOlMltTFJSnNzKQaalnqq1zce~8Dz7n4xAPp154MgEfjB1~21mnx6eR9u5rdd3zV4cggv5DCCzFQxzRjcVDS7nJhvCxORRC98on4JBasfdCMWIocJkEsfvJVXraUls0uzeYHlewlTtrUY5pcXVQhG4vCtkZ8jD5VrQfFHe9so7KG6dLwt2rQcVqAkJ9SR5tb5PhsolI69a0BSLVh1uA3Pj2S5RfwzjhMA3VOtCFuhLn3cspc~TKzy6fcRhjrDHeIPbXUXq~Zhztd-qUyXw__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885683/Japanese_Encephalitis_oy4fsn.png',
         definisi:
             'Japanese encephalitis adalah infeksi virus yang disebabkan oleh virus Japanese encephalitis (JEV), yang ditularkan melalui gigitan nyamuk. Penyakit ini dapat menyebabkan peradangan otak dan berpotensi mengancam jiwa, terutama di daerah pedesaan Asia dan Pasifik.',
         gejala: [
@@ -626,7 +626,7 @@ export const dieases = [
     {
         id: 11,
         name: 'Keratitis',
-        img: 'https://media-hosting.imagekit.io//ea71a6c6268d400d/Keratitis.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=XhIlHyoWkeAQZsBUvlk9Ffhx94QF-kkNGoTQG2XhNlR4tyFXJggCwtnBQaDuXqrg7MZOqN~WRhdCQgRPn-jsgLczqZIjsTsPVtHQlBQHsqNdJW1tlpRbBcY6RpUsIOrrujFJljOr-BRPgNwt7G1plKIv9J1lSWL5Dd48Zh8SPCRunNH3dagDJDDTeYKGNXeYfGsGoE5KqlEj5e4c--zwGY~OWGuWnCI98~PHxcW-hSCwSa3OQj0Cq2dtXrW~irAK-odmizkHgJKoGN4seZnFqDp9zgcQsXyjzBUaEU3XUMsyUVu9vsf5DeSVVQzRXU4YxmX~b2VqagpTcnRXh0bjzQ__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885683/Keratitis_gch1wn.png',
         definisi:
             'Keratitis adalah peradangan pada kornea, lapisan transparan di depan mata, yang dapat disebabkan oleh infeksi, cedera, atau kondisi lainnya. Jika tidak diobati, keratitis dapat menyebabkan kerusakan permanen pada penglihatan.',
         gejala: [
@@ -689,7 +689,7 @@ export const dieases = [
     {
         id: 12,
         name: 'Leptospirosis',
-        img: 'https://media-hosting.imagekit.io//aaa5ea334ac2443d/Leptospirosis.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=tMEhF8p6vu15I3z3havQL~Xv0ruHUAEPphH9XSLSWAXBIWxHL41XOF1ji8RwwnzRxMsw2N3j~5ZBoXeg0AMVvwYci9bwzjla1scwSH17LHsXdPw1v707j44jZYHZDAnZgnK-toZ-CyhPaeG9qmYQqkfIwY20D-mKAlxyGPGDHyY~ri4HwO4i5TSv3zclmFZku~S~o4PL34Xu~CevXX~oWB0Aaqk8PnhRIC3U1IRzpxSYFh5TmKtPV15zjfLm-nHJpAwYEZJdqKO38ptLRPJgNMaTYO8q-PjHonKgMOEJlhv96WNgVuXzOy3CJuOrzQGo2Qb0qlDEFagwSf0-AIN3kA__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885683/Leptospirosis_ygq88r.png',
         definisi:
             'Leptospirosis adalah infeksi bakteri yang disebabkan oleh bakteri Leptospira, yang biasanya ditularkan melalui kontak dengan air, tanah, atau makanan yang terkontaminasi dengan urin hewan yang terinfeksi. Penyakit ini dapat menyebabkan gejala ringan hingga berat dan dapat berakibat fatal jika tidak diobati.',
         gejala: [
@@ -747,7 +747,7 @@ export const dieases = [
     {
         id: 13,
         name: 'Malaria',
-        img: 'https://media-hosting.imagekit.io//721825950ff849ea/Malaria.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=CuDygkBrQY9QpL7Tp5Uv5Eb-n847Kpib2PWfj~wvZw5JWBGmmznKrFjUz55zVS9FzZMHiTbWSTQ3v5QWVenX~lK7icPmeTHSpFWXEQKOKmH~EDzBKf~v9mAEC8ZF2el4HVJFBbaWeACSnlM5CIYvrD4H16df9GdM~lq5Lx34es6oOL2c2fCGWXBgu9z3k35Dg49CvnrtpZlbRuSokgGJky~lcroFaMVscK6fi7~d5sGSQbp6qPNYQREdXJ5TNfFbnHgUIMqsOvtcWX36cdbexbKbh3eVAadk7RIKjOWnqfBwnHAiKiURr~EoDJCjC~k5HqzP-r~7iHKxjBGQMdqQwg__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885683/Malaria_e7wrwf.png',
         definisi:
             'Malaria adalah infeksi parasit yang disebabkan oleh Plasmodium, yang ditularkan melalui gigitan nyamuk Anopheles. Penyakit ini dapat menyebabkan gejala yang parah dan berpotensi mengancam jiwa jika tidak diobati.',
         gejala: [
@@ -812,7 +812,7 @@ export const dieases = [
     {
         id: 14,
         name: 'Nephritis',
-        img: 'https://media-hosting.imagekit.io//b2d487d3107b4315/Nephritis.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=FZf1u61D-U1rrqJAxI~7c0nUZSELKBfZSty9q5Cg1T9WLaVNrtUni~0E9p~pAfXEsKAb7vioNexnP2NJRnDhAQQ39WWd9A~aM673ie96WgTytKY01WfXrdTeNRS8qJhfD7TqZ41XZoAa7Ug~nMfZf2jw~cr8uO9ing5ymn1c5gUeSkvIM6SjGEc2F2EIQkwaRaVZF6-P03oIM7HBvMv0ZqdA7kn6pxDL7QciK~s7-1Y9EjVvO9IRuQfOcsEKc2pL~YpF7ltPfJCiHRjhOEVu1T-6s5O93hpe0jyDMKUAjLLkqRi8fPYwNGmEBtG7GXrM~4yqYb6mY25Alme7XVrO5A__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885683/Nephritis_pfcya2.png',
         definisi:
             'Nephritis adalah peradangan pada ginjal yang dapat mempengaruhi fungsi ginjal. Penyakit ini dapat disebabkan oleh infeksi, penyakit autoimun, atau reaksi terhadap obat-obatan. Nephritis dapat menyebabkan kerusakan ginjal yang serius jika tidak diobati.',
         gejala: [
@@ -879,7 +879,7 @@ export const dieases = [
     {
         id: 15,
         name: 'Osteoporosis',
-        img: 'https://media-hosting.imagekit.io//234e11ee118a4330/Osteoporosis.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=QRyAs4ypNlxFBOPwQx3J3Cl5YD19AKCoeayq-WIW05FwGp4njZX3XXdYOWrTRb8olRjpXL3ikU40tMUE5Py5RS-HFmgyHcNaZzZmNmEpaYGzZ2V5~BKVCoyj4VXjdIYxC8NphOhJYOCauE0-OnYYxndyaWFu~vT4Au~LHOJ5xSY3VRDfZnkajXB7byKcP-tlJiMDEne~hZWwph8k9o04sCIViE6LZIjTvMwxHo4j2KrX-4~FFRY~8zkgHrOcVp5d~aUlT3qSX5rDvNXgVmsYPw7LOMYQ3FZRo9Dh16aIudyv74hb-0vRvWlwcQgiRfU~TNdzhcJWuEvA79Z9XvpchQ__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885683/Osteoporosis_sdpvjz.png',
         definisi:
             'Osteoporosis adalah kondisi medis yang ditandai oleh penurunan kepadatan tulang, yang membuat tulang menjadi lemah dan lebih rentan terhadap patah. Penyakit ini sering kali tidak menunjukkan gejala hingga terjadi patah tulang.',
         gejala: [
@@ -947,7 +947,7 @@ export const dieases = [
     {
         id: 16,
         name: 'Pneumonia',
-        img: 'https://media-hosting.imagekit.io//906d5ab8e82748f0/Pneumonia.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ojU5KCDRYeu6RG-SupRK3KfjLtQRWrUrYBeSHGDNysolpCIkJsqvOiY3Ow24WjcnCJstDoJV4wadxJytiJ5r5WpJ9WhR3UQdSfbrdv2PoOKI6c67CYkI0BKkjlpvRKqiHs9zPo27PypW3KEc0fUcbeuijr6rGaI99Dem~6ED-BymMGJ9hzOVFNPvQ1ESkzpcFunWJsgbXOAtl8qoDiN~WhKfSL~2vH~-UtznawdWoOmzEG-6xBA9NDU1y~AvqpLanrDjhj95whiBjPWn0Tuk34eXPVmk4ZuC9nY2bOlcwLxgeEWIEcXF8XCZSZF1s3a6EYFLfOwRzXVwZX6bafTNXQ__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885683/Pneumonia_upslxh.png',
         definisi:
             'Pneumonia adalah infeksi yang menginflamasi kantung udara di satu atau kedua paru-paru, yang dapat diisi dengan cairan atau nanah. Penyakit ini dapat disebabkan oleh berbagai mikroorganisme, termasuk bakteri, virus, dan jamur.',
         gejala: [
@@ -1014,7 +1014,7 @@ export const dieases = [
     {
         id: 17,
         name: 'Q-fever',
-        img: 'https://media-hosting.imagekit.io//39f763142fdd407e/Yellow%20Fever%20(Febris%20Flava).png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHCSignature=jbs4fCjMhKW7Q6orsXDyx98NRcN2AN4O25GAr~wK90NV2p3TSSUaNcOJXrIzxCztKMEPLdRSux0vFcg1hpuVmggsL5uVvmEu6ETuL0MWfIK4Vj7UZj1pt4jXXizGxCCod8m4Rh~jeJLIS5HN8Iut2D9zB0A-UC5~CoLIb0W-ggjYDbxzTYT1639UIy6q2~lnjHAJ~RyF~xlOyqd1TrzocXmn7yxKe4MfYQ7lP~R9Kja9Lilj3cgkn9oJiT~qyHyTqgT178X9mcjpeAk~tXR9PZpV1zXde1YdZXJrTdk4vFiKmquw7YUdccGYer-kBmKJep5Okc51EdTUXo-EuNgNQw__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885682/Febris_Dengue_wiyaja.png',
         definisi:
             'Q-fever adalah infeksi bakteri yang disebabkan oleh Coxiella burnetii, yang biasanya ditularkan dari hewan, terutama domba, kambing, dan sapi, kepada manusia. Penyakit ini dapat menyebabkan gejala flu ringan hingga infeksi paru-paru yang lebih serius.',
         gejala: [
@@ -1072,7 +1072,7 @@ export const dieases = [
     {
         id: 17,
         name: 'Q-fever',
-        img: 'https://media-hosting.imagekit.io//39f763142fdd407e/Yellow%20Fever%20(Febris%20Flava).png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHCSignature=jbs4fCjMhKW7Q6orsXDyx98NRcN2AN4O25GAr~wK90NV2p3TSSUaNcOJXrIzxCztKMEPLdRSux0vFcg1hpuVmggsL5uVvmEu6ETuL0MWfIK4Vj7UZj1pt4jXXizGxCCod8m4Rh~jeJLIS5HN8Iut2D9zB0A-UC5~CoLIb0W-ggjYDbxzTYT1639UIy6q2~lnjHAJ~RyF~xlOyqd1TrzocXmn7yxKe4MfYQ7lP~R9Kja9Lilj3cgkn9oJiT~qyHyTqgT178X9mcjpeAk~tXR9PZpV1zXde1YdZXJrTdk4vFiKmquw7YUdccGYer-kBmKJep5Okc51EdTUXo-EuNgNQw__',
+        img: '',
         definisi:
             'Q-fever adalah infeksi bakteri yang disebabkan oleh Coxiella burnetii, yang biasanya ditularkan dari hewan, terutama domba, kambing, dan sapi, kepada manusia. Penyakit ini dapat menyebabkan gejala flu ringan hingga infeksi paru-paru yang lebih serius.',
         gejala: [
@@ -1130,7 +1130,7 @@ export const dieases = [
     {
         id: 18,
         name: 'Rubella',
-        img: 'https://media-hosting.imagekit.io//dc9496c4354f41e3/rubella.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Z6d3rg~bASys1YcTjxn9Q4HFins3Qa3bv4qI6hk2nhs-m0rdFGiaNDl6cIzntsl4H6J~OntLJfWAHwa4HFwCv--OuQDXOcLHMObDpuhCE-cMgoPtYNANY-fNYvkzFXEVNTickulF7ZT9ZlwZEbtMDFYuA39jbJgCS4agktIKBPsHPQCx10gFiMb2eu2WWsHTvktjRjA4k2T2Qay86~2WSdm0y8Dh0hX1mCAWB6wq7sNae23bXY4FG9b1RiMeBQC5XHTz-ssKeuThJoobMhdKkeH-tn5cqu785Y9dSPfIDahYIlLZRnhpx0SyPple2VE~nn22vza4kNicKWzI6Pi-pg__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885683/rubella_e7jqqu.png',
         definisi:
             'Rubella, juga dikenal sebagai campak Jerman, adalah infeksi virus yang disebabkan oleh virus rubella. Penyakit ini biasanya ringan pada anak-anak, tetapi dapat menyebabkan komplikasi serius jika terjadi pada wanita hamil, termasuk cacat lahir pada janin.',
         gejala: [
@@ -1185,68 +1185,11 @@ export const dieases = [
         komplikasi:
             'Rubella dapat menyebabkan komplikasi serius, terutama pada wanita hamil, termasuk sindrom rubella kongenital, yang dapat menyebabkan cacat lahir, kelahiran prematur, dan keguguran. Pada orang dewasa, dapat menyebabkan nyeri sendi dan komplikasi lainnya, meskipun jarang.',
     },
-    {
-        id: 18,
-        name: 'Rubella',
-        img: 'https://media-hosting.imagekit.io//dc9496c4354f41e3/rubella.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Z6d3rg~bASys1YcTjxn9Q4HFins3Qa3bv4qI6hk2nhs-m0rdFGiaNDl6cIzntsl4H6J~OntLJfWAHwa4HFwCv--OuQDXOcLHMObDpuhCE-cMgoPtYNANY-fNYvkzFXEVNTickulF7ZT9ZlwZEbtMDFYuA39jbJgCS4agktIKBPsHPQCx10gFiMb2eu2WWsHTvktjRjA4k2T2Qay86~2WSdm0y8Dh0hX1mCAWB6wq7sNae23bXY4FG9b1RiMeBQC5XHTz-ssKeuThJoobMhdKkeH-tn5cqu785Y9dSPfIDahYIlLZRnhpx0SyPple2VE~nn22vza4kNicKWzI6Pi-pg__',
-        definisi:
-            'Rubella, juga dikenal sebagai campak Jerman, adalah infeksi virus yang disebabkan oleh virus rubella. Penyakit ini biasanya ringan pada anak-anak, tetapi dapat menyebabkan komplikasi serius jika terjadi pada wanita hamil, termasuk cacat lahir pada janin.',
-        gejala: [
-            {
-                name: 'umum',
-                list: [
-                    'Demam Ringan: Suhu tubuh yang sedikit meningkat.',
-                    'Ruam: Ruam merah yang muncul di wajah dan menyebar ke seluruh tubuh.',
-                    'Kelelahan: Rasa lelah yang signifikan dan tidak biasa.',
-                ],
-            },
-            {
-                name: 'spesifik',
-                list: [
-                    'Nyeri Sendi: Rasa nyeri atau ketidaknyamanan pada sendi, terutama pada orang dewasa.',
-                    'Pembengkakan Kelenjar Getah Bening: Kelenjar di belakang telinga dan leher dapat membengkak.',
-                    'Gejala Flu Ringan: Batuk, pilek, dan sakit tenggorokan.',
-                ],
-            },
-        ],
-        tahpan: [
-            {
-                name: 'awal',
-                list: ' Gejala mirip flu seperti demam dan kelelahan muncul.',
-            },
-            {
-                name: 'menengah',
-                list: 'Ruam mulai muncul, biasanya dalam 1-2 minggu setelah terpapar.',
-            },
-            {
-                name: 'lanjut',
-                list: 'Gejala dapat memburuk dengan nyeri sendi dan pembengkakan kelenjar getah bening.',
-            },
-        ],
-        penyebab: ['Infeksi oleh virus rubella, yang menyebar melalui percikan udara dari batuk atau bersin.', 'Penularan melalui kontak langsung dengan cairan tubuh dari individu yang terinfeksi.'],
-        pengobatan: [
-            {
-                name: 'medis',
-                list: ['Tidak ada pengobatan spesifik untuk rubella; perawatan bersifat suportif untuk mengelola gejala.'],
-            },
-            {
-                name: 'mandiri',
-                list: ['Istirahat yang cukup, banyak minum cairan, dan menggunakan obat pereda nyeri untuk demam.'],
-            },
-            {
-                name: 'alternatif',
-                list: [' Tidak ada pengobatan alternatif yang terbukti efektif; pengobatan medis adalah yang utama.'],
-            },
-        ],
-        durasi: 'Gejala biasanya berlangsung selama 1-3 minggu.',
-        pencegahan: ['Vaksinasi dengan vaksin MMR (Measles, Mumps, Rubella) untuk mencegah infeksi.', ' Menghindari kontak dengan individu yang terinfeksi, terutama bagi wanita hamil.'],
-        komplikasi:
-            'Rubella dapat menyebabkan komplikasi serius, terutama pada wanita hamil, termasuk sindrom rubella kongenital, yang dapat menyebabkan cacat lahir, kelahiran prematur, dan keguguran. Pada orang dewasa, dapat menyebabkan nyeri sendi dan komplikasi lainnya, meskipun jarang.',
-    },
+
     {
         id: 19,
         name: 'Syphilis',
-        img: 'https://media-hosting.imagekit.io//151326629bba4259/Syphilis.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=HPf0nSmgyGgDy0Ej2XVvMhQcqXReZElamBJ-q0w4WEbgZxPzkQtARxWFzOmj1p5RxFOreSRKOpqA0sZRwWULLG5Rjlu~cEt3BTWjH6CKGwej6wX-mm3GjRklURxdcnpLUrCZxu-6NWFqNAN~y2vifpuGkrl~vCo3yrdAFtdf0Z0oGjD32gG3mr7diVDFJgLlsLtPfRx3TseiVeNJNBoBKzsSD6SSqXXw13Tk~UlBvnCs3c4Ytj4hQA0pilauBrDeu~pVSRLv1shOKKRspDEIbIw-7eF8lRivWpIBIkJBQoiGvjcwD3vmf03pYCj8NFSQQ82ROSiKkukM~mLa0HF8tw__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885683/Syphilis_pdz27j.png',
         definisi:
             'Syphilis adalah infeksi menular seksual (IMS) yang disebabkan oleh bakteri Treponema pallidum. Penyakit ini dapat berkembang melalui beberapa tahap dan dapat menyebabkan komplikasi serius jika tidak diobati.',
         gejala: [
@@ -1312,7 +1255,7 @@ export const dieases = [
     {
         id: 20,
         name: 'Tuberculosis',
-        img: 'https://media-hosting.imagekit.io//ca4fec934ddb4d3c/Tuberculosis.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=LggyFZkGO~nApf05raskSKp0zUtGgFzOuMGsBSBlopwIkA9Xu7~PiJiM3EnfWuQn5RZmBXmFCzaXsMjWKflZRNJT957mOE204SedzuKARuxnQwq38pqoDBXwBlUVBiBO6G19JSdzK4GseEEdUWM7Qnc3wQY84SVNbykdssWXSXhCd9jhAObYMACzcDg82mRLylizhcq0u47Fq8a6QXxZssGwAaSxXsJ0nxdR54A2OW7MO9MjUlM07ybx3-yJyc7i9M8c8JStrJiPPlulNG-YGQYL9HeyN01LdD5W0YeR8TSTfS2SichgDRhzi0EQgBoufPatf3erxRw0E7DDlWCb6Q__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885684/Tuberculosis_cmb1g9.png',
         definisi:
             'Tuberculosis (TB) adalah infeksi bakteri yang disebabkan oleh Mycobacterium tuberculosis, yang biasanya menyerang paru-paru tetapi juga dapat mempengaruhi bagian tubuh lainnya. Penyakit ini menular melalui udara ketika seseorang yang terinfeksi batuk atau bersin.z',
         gejala: [
@@ -1374,7 +1317,7 @@ export const dieases = [
     {
         id: 21,
         name: 'Varicella',
-        img: 'https://media-hosting.imagekit.io//63a33a1e1af24426/Varicella.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=BZg8SaWeEClAD6n9IYjP0YhcEEWbE3kBKQxHfZcLqv4faAd~srQ08ZlXsFZAkCqOrCkZGKaEdoLvxnIwrjG3gmCRjhA9-vyfp9rueg8~Ssa6XziDyvcMB6~jDpuSL8n21yLphcn2eUlCPJSMzm3c9eginL~ZGrScmGB93WtI3U3hHQ~G~6jJs220LmT20DpKl-wZ8bISkQ-Ib3ojceLAtojEJnLtkqCkdrRHb~LeTKinVcqIejUl9uasyEp~bBAOsep4UcnyFbRCcGwX7ybXROIbuWjk2uADYkYH38kciclT8t9wMiUcP5gRywPX6XYYUi1xAmf8Xpp7zolFj4GfeA__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885684/Varicella_mekblx.png',
         definisi:
             'Varicella, atau cacar air, adalah infeksi virus yang disebabkan oleh virus varicella-zoster (VZV). Penyakit ini sangat menular dan ditandai dengan munculnya ruam kulit yang gatal dan bercak-bercak berisi cairan.',
         gejala: [
@@ -1431,7 +1374,7 @@ export const dieases = [
     {
         id: 22,
         name: 'Febris Dengue',
-        img: 'https://media-hosting.imagekit.io//a61171d5cfda4837/Febris%20Dengue.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=WgXg9xF1BrloVyyfFAFCZjKjOAWW551885Uq-sQmn98hjYrNXQDKDlrb7roZ8uQXdb7Boc73H47wctxVj73IKAn-KwH5xnoSx7msEJo8qk5uXtQfO5eQOjbmySPMwxVCe4FKXBbV1fFc0alUJgA7lufNyOkdh1RGhIc3vo-dd2H6cyvnE94U0U-QYtOJvGeWQcWBDxVBiM0IhSnXtfn8PCL~-cNxtV-ap7Mk8OvHmKCvihPz~s3BSm3N9CkGHngfrmSW3O4mVVhtHi9LF64mx7MUvFD9TSYloOPeRGOR~j4ib883CrtGY6nKxN2f7ndddBPDIabSNuqy545aoWVhRg__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885682/Febris_Dengue_wiyaja.png',
         definisi:
             'Febris dengue, atau demam dengue, adalah infeksi virus yang disebabkan oleh virus dengue, yang ditularkan melalui gigitan nyamuk Aedes, terutama Aedes aegypti. Penyakit ini dapat menyebabkan gejala ringan hingga berat dan berpotensi mengancam jiwa.',
         gejala: [
@@ -1493,7 +1436,7 @@ export const dieases = [
     {
         id: 23,
         name: 'Xeroderma',
-        img: 'https://media-hosting.imagekit.io//19a539472bfc4178/Xeroderma.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=FPLoOu7VDwn7K5j3zEJIERiV53BqgU0xuwSin7lBHiVh0gvsgiUHI8Y5V8jiYaDAmjwsHk3XhrvdIteKtxa4Gs8o93BqIQURGw1pr~vlSyOB89BmHFVWPyfH2Q9Elbz6RS2VmGU5Bp81ZdETnQlPJasmmgD0vnw6zgERJzTV~F8BKm18ih-KIUWsYgVXesj1S8Th3DzrQ3s3RXPpCb9ihL~8RN1GU3DTg-MNCd4rjTZOqF~QHuEX9RGnssXZ6myZn96ugVVKcMsRBbEGY8MP1EJe9hjKh4bMzjPrGyiLOlJXYte1ElOtjWAt2PXUXcNe-V9kC0vSIY8jFnRbwX14PQ__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885684/Xeroderma_aymhdm.png',
         definisi:
             'Xeroderma adalah kondisi kulit yang ditandai oleh kekeringan, pengelupasan, dan kerutan pada kulit. Penyakit ini dapat disebabkan oleh berbagai faktor, termasuk paparan sinar matahari, dehidrasi, dan kondisi medis tertentu.    ',
         gejala: [
@@ -1555,8 +1498,8 @@ export const dieases = [
     },
     {
         id: 24,
-        name: 'Yellow Feve',
-        img: 'https://media-hosting.imagekit.io//39f763142fdd407e/Yellow%20Fever%20(Febris%20Flava).png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=jbs4fCjMhKW7Q6orsXDyx98NRcN2AN4O25GAr~wK90NV2p3TSSUaNcOJXrIzxCztKMEPLdRSux0vFcg1hpuVmggsL5uVvmEu6ETuL0MWfIK4Vj7UZj1pt4jXXizGxCCod8m4Rh~jeJLIS5HN8Iut2D9zB0A-UC5~CoLIb0W-ggjYDbxzTYT1639UIy6q2~lnjHAJ~RyF~xlOyqd1TrzocXmn7yxKe4MfYQ7lP~R9Kja9Lilj3cgkn9oJiT~qyHyTqgT178X9mcjpeAk~tXR9PZpV1zXde1YdZXJrTdk4vFiKmquw7YUdccGYer-kBmKJep5Okc51EdTUXo-EuNgNQw__',
+        name: 'Yellow Fever',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885684/Yellow_Fever_Febris_Flava_tdstpx.png',
         definisi:
             'Yellow fever adalah infeksi virus yang disebabkan oleh virus yellow fever, yang ditularkan melalui gigitan nyamuk Aedes atau Haemagogus. Penyakit ini dapat menyebabkan gejala yang bervariasi dari ringan hingga berat dan dapat berakibat fatal.',
         gejala: [
@@ -1621,7 +1564,7 @@ export const dieases = [
     {
         id: 25,
         name: ' Zika Virus',
-        img: 'https://media-hosting.imagekit.io//46d3e2fcbfef4043/Zika%20Virus.png?Expires=1836332368&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=aUD10pKoT5uKxOLdJiRK1afkub99ZLjSpmJdcmlms63YyDAvAcAWkjcNJIQU2BIA0qQe3NEkO62EIBOCH3X4ENjJLbmhYOXvv9LJKSSaTNX15eZE2NKCivrusi4z45exBxe7GXgjE3-3-Ax-IeRzT9tXjLliOCK5j-NwVbRdmOaK90RehJMjocNanJOPaXw1utWOch8gpg3nlLJnqhkUTyFH8LDMNMru5WLZRO6Uu7HWassKUxW8TqAwhsaVoFrM59AUv8vwUP7pjzVQXIAS-M9n22t7rYadHswAO21NH6svv9RLyGXBUhCIYbWfkCysoFqNAwHNqb14xKQS-CAQ-A__',
+        img: 'https://res.cloudinary.com/dektxbmmb/image/upload/v1775885684/Zika_Virus_mytyak.png',
         definisi:
             'Zika virus adalah infeksi yang disebabkan oleh virus Zika, yang ditularkan melalui gigitan nyamuk Aedes, terutama Aedes aegypti. Penyakit ini sering kali ringan, tetapi dapat menyebabkan komplikasi serius, terutama pada wanita hamil.',
         gejala: [
